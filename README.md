@@ -4,5 +4,5 @@ I`m a student,
 - 🌱 I’m currently learning programming lang
 - 👯 I’m looking to collaborate with other content creators 
 - 🤔 I’m looking for help with competitive programming and understanding concepts of programming
-- 💬 Ask me about my project
+- 💬 Ask me about my project.
 - ⚡ Fun fact I love to play online games
